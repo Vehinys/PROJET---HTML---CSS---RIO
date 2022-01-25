@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 1024px;
+}
+
+header .bar{
+    display: flex;
+}
+
+#rio2016{
+    width: 100px;
+}
+#plagerio{
+    width: 1024px;
+}
+#interrogation{
+    width: 60px;
+}
+#banniere{
+    width: 150px;
+}
+.rs{
+    width: 50px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between
+}
+.logofooter{
+    width: 70px;
+}
+#news{
+    display: flex;
+    flex-direction: column;
+}
